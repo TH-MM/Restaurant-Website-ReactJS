@@ -26,7 +26,7 @@ function App() {
       {loading ?
         <div className='w-full h-full flex justify-center items-center'>
           <div class="flex justify-center items-center min-h-screen relative">
-            <div class="absolute w-12 h-12 border-t-4 border-red-500 border-solid rounded-full animate-spin"></div>
+            <div class="absolute w-12 h-12 border-t-4 border-green-500 border-solid rounded-full animate-spin"></div>
           </div>
         </div>
         :
